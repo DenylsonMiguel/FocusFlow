@@ -1,2 +1,2 @@
 # FocusFlow
-A modern way to organizate him self
+A modern way to organize your tasks easily and 100% free.
